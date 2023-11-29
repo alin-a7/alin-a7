@@ -2,11 +2,6 @@
 
 ### My name is Alina and I'm a frontend developer
 
-## My Stats:
-
-![React's GitHub stats](https://github-readme-stats.vercel.app/api?username=alin-a7&show_icons=true&theme=vision-friendly-dark&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alin-a7&layout=compact&theme=vision-friendly-dark)](https://github.com/alin-a7/github-readme-stats)
-
 <details> 
   <summary><h2>My some projects :</h2></summary>
     <h4>  
